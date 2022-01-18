@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1c5219a-f040-4466-bd09-874ba2447290": {
+      "ProjectGuid": "d1c5219a-f040-4466-bd09-874ba2447290",
+      "DisplayName": "DashboardEmulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
